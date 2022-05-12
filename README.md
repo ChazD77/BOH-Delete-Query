@@ -1,1 +1,5 @@
-# BOH-Delete-Query
+DELETE
+
+FROM RQIssues
+
+WHERE needdate < '6/30/10'
